@@ -3,7 +3,7 @@ import addons from '@storybook/addons';
 
 import Comments from './Comments';
 
-import { ADDON_ID } from '../constants';
+import { ADDON_ID } from './helpers/constants';
 
 export default function () {
   addons.register(ADDON_ID, (api) => {
@@ -11,6 +11,7 @@ export default function () {
 
     addons.addPanel(ADDON_ID, {
       title: 'Comments',
+      // eslint-disable-next-line react/prop-types
       render: () => <Comments channel={channel} api={api} />,
     });
   });

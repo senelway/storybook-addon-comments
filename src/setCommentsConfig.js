@@ -1,6 +1,6 @@
 import addons from '@storybook/addons';
 
-import { EVENT_ID } from './constants';
+import { EVENT_ID } from './helpers/constants';
 
 function setCommentsConfig(options) {
   const channel = addons.getChannel();
