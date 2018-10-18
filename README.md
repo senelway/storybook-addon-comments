@@ -12,7 +12,7 @@ yarn add storybook-addon-comments -D
 ```
 
 ```js
-// addon.js
+// .storybook/addons.js
 
 import 'storybook-addon-comments';
 ```
