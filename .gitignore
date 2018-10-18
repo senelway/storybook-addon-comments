@@ -29,6 +29,7 @@ build
 
 #builder
 build
+demo
 npm-debug.log
 node_modules
 flow-typed/

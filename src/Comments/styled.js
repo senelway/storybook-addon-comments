@@ -37,3 +37,16 @@ export const Button = styled.button`
 export const Message = styled.p`
 
 `;
+
+export const Container = styled.div`
+  padding: 20px;
+  width: 100%;
+`;
+
+export const Preloader = styled.p`
+  margin: 5px 0;
+`;
+
+export const Form = styled.form`
+  margin-top: 30px;
+`;

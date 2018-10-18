@@ -1,7 +1,7 @@
 {
   "name": "storybook-addon-comments",
-  "version": "0.1.0",
-  "description": "storybook and firebasse comments app",
+  "version": "0.2.0",
+  "description": "storybook and firebase comments app",
   "main": "lib/index.js",
   "license": "MIT",
   "repository": "git@github.com:stk-dmitry/storybook-addon-comments.git",
@@ -16,7 +16,7 @@
   "keywords": [
     "react",
     "storybook",
-    "firebasse"
+    "firebase"
   ],
   "husky": {
     "hooks": {
@@ -26,8 +26,8 @@
   "dependencies": {
     "@storybook/addons": "^3.4.11",
     "firebase": "^5.5.4",
+    "query-string": "^6.2.0",
     "react": "^16.5.2",
-    "reflexer": "^2.4.0",
     "styled-components": "^4.0.2"
   },
   "devDependencies": {

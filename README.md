@@ -1,9 +1,9 @@
 # storybook-addon-comments
 ### based on firebase database
 
-[![npm](https://img.shields.io/npm/v/stk-dmitry/storybook-addon-comments.svg)](https://www.npmjs.com/package/stk-dmitry/storybook-addon-comments)
+[![npm](https://img.shields.io/npm/v/storybook-addon-comments.svg)](https://www.npmjs.com/package/storybook-addon-comments)
 [![Greenkeeper badge](https://badges.greenkeeper.io/stk-dmitry/storybook-addon-comments.svg)](https://greenkeeper.io/)
-[![Travis badge](https://travis-ci.com/stk-dmitry/storybook-addon-comments.svg?branch=master)](https://travis-ci.com/stk-dmitry/storybook-addon-comments)
+[![Travis badge](https://api.travis-ci.com/stk-dmitry/storybook-addon-comments.svg?branch=master)](https://travis-ci.com/stk-dmitry/storybook-addon-comments)
 
 
 ## Install

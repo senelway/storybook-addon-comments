@@ -1,4 +1,4 @@
-import init from './app';
+import init from './render';
 import setCommentsConfig from './setCommentsConfig';
 
 init();
