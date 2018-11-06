@@ -24,7 +24,7 @@
     }
   },
   "dependencies": {
-    "@storybook/addons": "^4.0.0",
+    "@storybook/addons": "^4.0.1",
     "firebase": "^5.5.4",
     "query-string": "^6.2.0",
     "react": "^16.5.2",
