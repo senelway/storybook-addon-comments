@@ -794,22 +794,22 @@
   version "0.2.11"
   resolved "https://registry.yarnpkg.com/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.2.11.tgz#32a853fad9974cbbc9fc766ec5699a18b22ccee6"
 
-"@storybook/addons@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-4.0.1.tgz#40fb67fe76915abdc11684c67a3ef8a39bf8d7f7"
+"@storybook/addons@^4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-4.0.9.tgz#cfa18fe10ddda454dbbc3aae17562e46d04d3955"
   dependencies:
-    "@storybook/channels" "4.0.1"
-    "@storybook/components" "4.0.1"
+    "@storybook/channels" "4.0.8"
+    "@storybook/components" "4.0.9"
     global "^4.3.2"
     util-deprecate "^1.0.2"
 
-"@storybook/channels@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-4.0.1.tgz#5e8de19c01ab7c988952f64a6f7e2de75a3eb93e"
+"@storybook/channels@4.0.8":
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-4.0.8.tgz#36d96ad714c685f144fd1f1e5394faf0e0291032"
 
-"@storybook/components@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-4.0.1.tgz#0e9d9f719936967403529151f7975866857b1793"
+"@storybook/components@4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-4.0.9.tgz#c5cc9f52768fd7a6078d9601cecacd0e357dc130"
   dependencies:
     "@emotion/core" "^0.13.1"
     "@emotion/provider" "^0.11.2"
