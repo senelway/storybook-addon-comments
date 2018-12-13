@@ -794,22 +794,25 @@
   version "0.2.11"
   resolved "https://registry.yarnpkg.com/@firebase/webchannel-wrapper/-/webchannel-wrapper-0.2.11.tgz#32a853fad9974cbbc9fc766ec5699a18b22ccee6"
 
-"@storybook/addons@^4.0.9":
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-4.0.9.tgz#cfa18fe10ddda454dbbc3aae17562e46d04d3955"
+"@storybook/addons@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-4.1.0.tgz#c8856b6f255ec33a03f5c93754b14cfaa6901f21"
+  integrity sha512-wKkN7JyG8s/XGBF1R7DgcqeAewy949GRG9QJusacPsqMWamUFTJgyIGquVGDM+V0/6O0EFyFsWxYIxuVCVBKTg==
   dependencies:
-    "@storybook/channels" "4.0.8"
-    "@storybook/components" "4.0.9"
+    "@storybook/channels" "4.1.0"
+    "@storybook/components" "4.1.0"
     global "^4.3.2"
     util-deprecate "^1.0.2"
 
-"@storybook/channels@4.0.8":
-  version "4.0.8"
-  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-4.0.8.tgz#36d96ad714c685f144fd1f1e5394faf0e0291032"
+"@storybook/channels@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-4.1.0.tgz#effc3b9d9e03f6960c96a9339246342e27e314c7"
+  integrity sha512-f7BQ9Qbip3U7T88Pcibj2Rg7O0kCJYuyMmPBM5ywkvYsB2wSzFIAlwisD6uRII7skOIrH4aUE4imi+kPSBSE8A==
 
-"@storybook/components@4.0.9":
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-4.0.9.tgz#c5cc9f52768fd7a6078d9601cecacd0e357dc130"
+"@storybook/components@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-4.1.0.tgz#a186f7c45692bd8c6c69d24d4946d6236cb85a03"
+  integrity sha512-lJnF1BpisuA0zdu3IMUXHkuMYu6lz0cWyvXo90Fg9V9QhCRWHkE3NZ5W5t6hqfd+pWS/2yZMj/pOr0+rm2W+bg==
   dependencies:
     "@emotion/core" "^0.13.1"
     "@emotion/provider" "^0.11.2"
